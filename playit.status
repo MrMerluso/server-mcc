@@ -40249,3 +40249,18 @@ block-cameron.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730413060024 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA01nAAAAZLkp-B1AAAAAQAAAAEAAAAAAAAAAFdMZNujTNgdUte7LtoWKUE4WxTB6HNYA6WylPGTDhN0
+
+TUNNELS
+block-cameron.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730413063159 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA01nAAAAZLkp-B1AAAAAQAAAAEAAAAAAAAAAFdMZNujTNgdUte7LtoWKUE4WxTB6HNYA6WylPGTDhN0
+
+TUNNELS
+block-cameron.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
