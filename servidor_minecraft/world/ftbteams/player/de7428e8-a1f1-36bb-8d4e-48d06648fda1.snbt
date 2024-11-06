@@ -1,0 +1,17 @@
+{
+	id: "de7428e8-a1f1-36bb-8d4e-48d06648fda1"
+	type: "player"
+	player_name: "MrMerluso"
+	ranks: {
+		de7428e8-a1f1-36bb-8d4e-48d06648fda1: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "MrMerluso"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFDC59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

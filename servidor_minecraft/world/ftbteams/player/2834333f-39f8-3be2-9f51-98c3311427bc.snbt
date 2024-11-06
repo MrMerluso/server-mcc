@@ -1,0 +1,17 @@
+{
+	id: "2834333f-39f8-3be2-9f51-98c3311427bc"
+	type: "player"
+	player_name: "ElChatoQl"
+	ranks: {
+		2834333f-39f8-3be2-9f51-98c3311427bc: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ElChatoQl"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5963FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

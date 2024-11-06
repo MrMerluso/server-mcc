@@ -1,0 +1,15 @@
+{
+	id: "4824f4c1-dc42-344c-91e1-8046a41e3b09"
+	type: "player"
+	player_name: "SfreengcL"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "SfreengcL"
+		"ftbteams:description": ""
+		"ftbteams:color": "#6C59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

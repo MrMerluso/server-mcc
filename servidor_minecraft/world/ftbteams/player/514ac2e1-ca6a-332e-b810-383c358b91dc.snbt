@@ -1,0 +1,15 @@
+{
+	id: "514ac2e1-ca6a-332e-b810-383c358b91dc"
+	type: "player"
+	player_name: "Sm0king"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Sm0king"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF9E59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

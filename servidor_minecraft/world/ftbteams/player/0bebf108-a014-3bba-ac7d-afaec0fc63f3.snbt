@@ -1,0 +1,17 @@
+{
+	id: "0bebf108-a014-3bba-ac7d-afaec0fc63f3"
+	type: "player"
+	player_name: "_pipe"
+	ranks: {
+		0bebf108-a014-3bba-ac7d-afaec0fc63f3: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "_pipe"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF9D"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
